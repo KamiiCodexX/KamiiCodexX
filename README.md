@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/KamiiCodexX/KamiiCodexX/blob/main/kamiicodexx-giphy.gif)](https://kamiicodexx.vercel.app/)
+<h1 align="center">[![MasterHead](https://github.com/KamiiCodexX/KamiiCodexX/blob/main/kamiicodexx-giphy.gif)](https://kamiicodexx.vercel.app/)</h1>
 
 <h1 align="center">Hi 👋, I'm Mohammad Ali Syed</h1>
 <h3 align="center">A passionate full stack developer...</h3>
