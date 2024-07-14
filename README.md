@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [E-Commerce Store](https://kx-ecommerce-store.vercel.app/)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Nest js**
 
 - 👨‍💻 All of my projects are available at [https://kamiicodexx.vercel.app/](https://kamiicodexx.vercel.app/)
 
