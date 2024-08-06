@@ -1,5 +1,3 @@
-[![MasterHead](https://github.com/KamiiCodexX/KamiiCodexX/blob/main/giphy.gif)](https://kamiicodexx.vercel.app/)
-
 <h1 align="center">Hi 👋, I'm Mohammad Ali Syed</h1>
 <h3 align="center">A passionate full stack developer...</h3>
 
