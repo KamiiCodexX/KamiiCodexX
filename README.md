@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@KamiiCodexX](https://medium.com/@KamiiCodexX)
 
-- 💬 Ask me about **react, next 13, laravel**
+- 💬 Ask me about **React, Next 14, Laravel**
 
 - 📫 How to reach me **mohammadme359@gmail.com**
 
