@@ -72,4 +72,4 @@
 ---
 
 > *I’m always open to freelance gigs, collaborations, or full-time opportunities.*  
-> Let’s build something that lasts. ⚙️
+> Let’s build something that lasts.
