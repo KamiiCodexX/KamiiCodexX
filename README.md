@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi, I'm Mohammad Ali Syed</h1>
-<h3 align="center">🚀 Full Stack Engineer | Backend Architect | React Native Expert | Java Spring Boot | System Design Enthusiast</h3>
+<h1 align="center">Hi, I'm Mohammad Ali Syed</h1>
+<h3 align="center">Full Stack Engineer | Backend Architect | React Native Expert | Java Spring Boot | System Design Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kamiicodexx&label=Profile%20Views&color=0e75b6&style=flat" alt="kamiicodexx" />
@@ -7,42 +7,42 @@
 
 ---
 
-### 💼 What I Do
+### What I Do
 
-- 🧠 **Full Stack Development** — Laravel, Node.js, Java Spring Boot, Next.js
-- 🎨 **Frontend Engineering** — React, Next.js 14, Tailwind, UI/UX with Figma
-- 📱 **Mobile Development** — React Native with Expo & Firebase
-- ⚙️ **Backend Architecture** — REST APIs, Microservices, PostgreSQL, MongoDB, Redis
-- ☁️ **Cloud & DevOps** — Docker, CI/CD, Supabase, Firebase, Vercel, Render, AWS
-- 🧱 **System Design** — Modular, scalable SaaS & startup architecture
-- 📊 **Project Management** — Agile, Scrum, GitHub Projects & Trello
-
----
-
-### 🔧 Currently Working On
-
-- 🛒 [E-Commerce Store](https://kx-ecommerce-store.vercel.app/)
-- 🧠 Building stunning CV engines with Jinja2 & YAML
-- ✍️ Writing technical blogs & career guides
+- **Full Stack Development** — Laravel, Node.js, Java Spring Boot, Next.js
+- **Frontend Engineering** — React, Next.js 14, Tailwind, UI/UX with Figma
+- **Mobile Development** — React Native with Expo & Firebase
+- **Backend Architecture** — REST APIs, Microservices, PostgreSQL, MongoDB, Redis
+- **Cloud & DevOps** — Docker, CI/CD, Supabase, Firebase, Vercel, Render, AWS
+- **System Design** — Modular, scalable SaaS & startup architecture
+- **Project Management** — Agile, Scrum, GitHub Projects & Trello
 
 ---
 
-### 🌱 Learning & Exploring
+### Currently Working On
 
-- 🧵 **NestJS** — For modular, scalable Node apps
-- 🧠 **Clean Architecture** — Layered codebases in enterprise-grade systems
-
----
-
-### 🗂 Featured Projects
-
-- [🌍 Portfolio Website](https://kamiicodexx.vercel.app/)
-- [📄 CV Renderer & Engine](#)
-- [🎓 Career Coaching Tool (WIP)](#)
+- [E-Commerce Store](https://kx-ecommerce-store.vercel.app/)
+- Building stunning CV engines with Jinja2 & YAML
+- Writing technical blogs & career guides
 
 ---
 
-### 📫 Let’s Connect
+### Learning & Exploring
+
+- **NestJS** — For modular, scalable Node apps
+- **Clean Architecture** — Layered codebases in enterprise-grade systems
+
+---
+
+### Featured Projects
+
+- [Portfolio Website](https://kamiicodexx.vercel.app/)
+- [CV Renderer & Engine](#)
+- [Career Coaching Tool (WIP)](#)
+
+---
+
+### Let’s Connect
 
 <p align="left">
   <a href="https://linkedin.com/in/mohdalisyed" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
@@ -51,11 +51,11 @@
   <a href="https://instagram.com/the.mohammadaly" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
 </p>
 
-📬 **Email:** mohammadme359@gmail.com
+**Email:** mohammadme359@gmail.com
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 | Frontend | Backend | Mobile | DevOps | Tools |
 |---------|---------|--------|--------|-------|
@@ -65,9 +65,9 @@
 
 ### ⚡ Fun Facts
 
-- ⚽ I play FIFA and love football
-- 🎧 Audiophile — into EDM, Lo-Fi, Classical, and more
-- 🎮 Gaming + Anime inspire many of my UI designs
+- I play FIFA and love football
+- Audiophile — into EDM, Lo-Fi, Classical, and more
+- Gaming + Anime inspire many of my UI designs
 
 ---
 
