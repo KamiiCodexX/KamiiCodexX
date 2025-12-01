@@ -63,7 +63,7 @@
 
 ---
 
-### ⚡ Fun Facts
+### Fun Facts
 
 - I play FIFA and love football
 - Audiophile — into EDM, Lo-Fi, Classical, and more
@@ -71,5 +71,5 @@
 
 ---
 
-> 💡 *I’m always open to freelance gigs, collaborations, or full-time opportunities.*  
+> *I’m always open to freelance gigs, collaborations, or full-time opportunities.*  
 > Let’s build something that lasts. ⚙️
